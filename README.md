@@ -1,6 +1,6 @@
 # Medical Image Segmentation
 
-This repository contains part of the work we conduct at LIVIA that can be made publicly available. 
+This repository contains part of the work we conduct at LIVIA that can be made publicly available. The main focus on our research to segment medical images is on deep learning models and optimization techniques.
 
 This is the current content of this repository:
 
