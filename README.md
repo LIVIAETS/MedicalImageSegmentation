@@ -13,7 +13,7 @@ This repository contains the code of LiviaNET, a 3D fully convolutional neural n
 <br>
 
 ## - SemiDenseNet. Semi-dense connectivity to segment infant brain tissue in multi-modal images [Link](https://github.com/LIVIAETS/MedicalImageSegmentation/tree/master/SemiDenseNet)
-This repository contains the code of the network that we employed in the iSEG Grand MICCAI Challenge 2017, infant brain segmentation. This network extends out previous work in 3D fully convolutional neural network that was employed in our work: [3D fully convolutional networks for subcortical segmentation in MRI: A large-scale study](http://www.sciencedirect.com/science/article/pii/S1053811917303324), which can be found here : (https://github.com/josedolz/LiviaNET/).
+This repository contains the code of the network that we employed in the iSEG Grand MICCAI Challenge 2017, infant brain segmentation. This network extends out previous work in 3D fully convolutional neural network that was employed in our work: [3D fully convolutional networks for subcortical segmentation in MRI: A large-scale study](http://www.sciencedirect.com/science/article/pii/S1053811917303324).
 
 <br>
 <img src="https://github.com/josedolz/SemiDenseNet/blob/master/Images/brainModalities.png" />
