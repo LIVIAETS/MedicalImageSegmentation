@@ -19,3 +19,6 @@ This repository contains the code of the network that we employed in the iSEG Gr
 <img src="https://github.com/josedolz/SemiDenseNet/blob/master/Images/brainModalities.png" />
 <br>
 
+## - HyperDense-Net: A densely connected CNN for multi-modal image segmentation.
+
+This repository will contain the code of HyperDense-Net, a hyper-densely connected network that we proposed to segment medical images in a multi-modal images scenario. It achieved state-of-the-art performance in some multi-modal image based segmentations. [HyperDense-Net: A densely connected CNN for multi-modal image segmentation](https://arxiv.org/abs/1710.05956).
