@@ -19,8 +19,3 @@ This repository contains the code of the network that we employed in the iSEG Gr
 <img src="https://github.com/josedolz/SemiDenseNet/blob/master/Images/brainModalities.png" />
 <br>
 
-IMPORTANT: This Net is not the one that best performed in the iSEG Challenge, but the one with an individual path per modality and a late fusion stage to merge learned features (See figure). In case you want to adapt this net to the best performing net, you should remove one of the paths and merge T1 and T2 modalities at the input of the network. 
-
-<br>
-<img src="https://github.com/josedolz/SemiDenseNet/blob/master/Images/SemiDenseNET.png" />
-<br>
